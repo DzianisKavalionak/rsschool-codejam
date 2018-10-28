@@ -4,7 +4,7 @@
   "description": "rsschool-codejam",
   "main": "test.js",
   "scripts": {
-    "test": "mocha test.js"
+    "test": "mocha /test/"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/DzianisKavalionak/rsschool-codejam#readme",
   "dependencies": {
+    "eslint": "^5.8.0",
+    "eslint-config-airbnb-base": "^13.1.0",
     "mocha": "^5.2.0"
   }
 }
