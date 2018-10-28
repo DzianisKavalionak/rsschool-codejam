@@ -1,0 +1,22 @@
+{
+  "name": "rsschool-codejam",
+  "version": "1.0.0",
+  "description": "rsschool-codejam",
+  "main": "test.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DzianisKavalionak/rsschool-codejam.git"
+  },
+  "author": "DzianisKavalionak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DzianisKavalionak/rsschool-codejam/issues"
+  },
+  "homepage": "https://github.com/DzianisKavalionak/rsschool-codejam#readme",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}
